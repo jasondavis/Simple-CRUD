@@ -1,3 +1,6 @@
+Git merge #2
+
+
 yet another merge test
 
 

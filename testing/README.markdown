@@ -1,14 +1,4 @@
-Git merge #2
-
-
-yet another merge test
-
-
-
 TESTING BRANCHING in GIT
-
-
-more testing 3/28/2013
 
 #Simple CRUD
 
